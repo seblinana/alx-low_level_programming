@@ -1,0 +1,1 @@
+assigning a memory and freeing when it is not used anymore.
